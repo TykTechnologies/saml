@@ -11,7 +11,7 @@ require (
 	github.com/kr/pretty v0.3.1
 	github.com/mattermost/xml-roundtrip-validator v0.1.0
 	github.com/russellhaering/goxmldsig v1.4.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.8.1
 	github.com/zenazn/goji v1.0.1
 	golang.org/x/crypto v0.0.0-20220128200615-198e4374d7ed
 	gotest.tools v2.2.0+incompatible
